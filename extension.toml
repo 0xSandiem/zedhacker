@@ -1,0 +1,7 @@
+authors = ["SanteDime <contact@sante.dev>"]
+description = "🚀 An enhanced hacker-inspired theme with improved visibility and contrast. ZedHacker provides better color distinction for code elements while maintaining the cool hacker aesthetic."
+id = "zed-hacker"
+name = "ZedHacker Theme"
+repository = "https://github.com/N0TZ3R0/zed-hacker-theme"
+schema_version = 1
+version = "1.0.0"
