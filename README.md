@@ -57,7 +57,7 @@ ZedHacker is an enhanced version of the popular "Hacker Night Vision" theme, spe
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/N0TZ3R0/zed-hacker-theme.git ~/.config/zed/themes/zed-hacker-theme
+git clone https://github.com/N0TZ3R0/zedhacker.git ~/.config/zed/themes/zed-hacker-theme
 ```
 
 2. Open Zed
@@ -101,13 +101,13 @@ Advanced users can modify theme files located in:
 ## Screenshots
 
 ### ZedHacker Monochrome
-![ZedHacker Monochrome](assets/screenshot-monochrome.png)
+![ZedHacker Monochrome](assets/2.png)
 
 ### ZedHacker Matrix
-![ZedHacker Matrix](assets/screenshot-matrix.png)
+![ZedHacker Matrix](assets/1.png)
 
 ### ZedHacker Light
-![ZedHacker Light](assets/screenshot-light.png)
+![ZedHacker Light](assets/3.png)
 
 ## Troubleshooting
 
