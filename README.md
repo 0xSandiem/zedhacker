@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ZedHacker Logo](assets/zed hacker.png)
+[ZedHacker Logo](assets/zed hacker.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Zed](https://img.shields.io/badge/Zed-0.170.0%2B-green.svg)](https://zed.dev/)
