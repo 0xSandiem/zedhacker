@@ -52,5 +52,5 @@ MIT
 ---
 
 <div align="center">
-Made with ❤️ by <a href="https://github.com/N0TZ3R0">N0TZ3R0</a>
+Made with ❤️ by <a href="https://github.com/0xSandiem">0xSandiem</a>
 </div>
