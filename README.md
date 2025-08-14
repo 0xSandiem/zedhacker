@@ -29,7 +29,7 @@ ZedHacker is a carefully crafted theme designed to provide optimal visibility an
 1. Open Zed
 2. Open the command palette (Cmd+Shift+P on macOS, Ctrl+Shift+P on Windows/Linux)
 3. Type "Install Extension" and select it
-4. Enter `N0TZ3R0/zed-hacker-theme`
+4. Enter `0xSandiem/zed-hacker-theme`
 
 ## Theme Variants
 
